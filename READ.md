@@ -1,5 +1,4 @@
-# DTI5125: Data Science Applications
-# Assignment 3: Reinforcement Learning 
+# Reinforcement learning using taxi v3
 
 
 
