@@ -3,6 +3,7 @@
 
 
 !['robot image'](https://media.istockphoto.com/vectors/cute-white-robot-character-vector-vector-id1187576166?k=20&m=1187576166&s=612x612&w=0&h=q-REVReHr8QRzKQ_TRWGU7KTP6OBIgGh-zlg91-S-j0=)
+
 In this project, Reinforcement Learning algorithm was built to train an agent that can interact with simple environments such as:
 
 * Taxi-v3
